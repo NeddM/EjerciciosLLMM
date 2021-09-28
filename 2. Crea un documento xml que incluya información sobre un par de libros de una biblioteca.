@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+<libro>
+    <nombre>Los siete enanitos</nombre>
+    <precio>5€</precio>
+    <descripcion>
+   El famoso cuento para niños de siempre, en una reedición más fácil de leer.
+   </descripcion>
+</libro>
+<libro>
+    <nombre>Los tres cerditos</nombre>
+    <precio>6€</precio>
+    <descripcion>
+    Nueva edición a todo color.
+    </descripcion>
+</libro>
+</libreria>
