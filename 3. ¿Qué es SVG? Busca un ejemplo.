@@ -1,0 +1,4 @@
+¿Que es SVG?
+Sus siglas significan Scalable Vector Graphics, y es un lenguaje que nos sirve para realizar vectores.
+Los vectores son imagenes creadas a traves de operaciones matemáticas, de manera que son reescalables sin perder calidad de imagen.
+Las imagenes opuestas son las conocidas como imagenes "raster", que serían las de mapa de bits, en este caso sí que se perdería calidad a la hora de ampliar la imagen.
