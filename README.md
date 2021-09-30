@@ -11,6 +11,8 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 ## Pruebas de markdown
 
 ### Negritas e itálicas
-*Esto es negrita* y 
-**esto es itálica**
+__Esto es negrita__ y 
+*esto es itálica*
+
+
 
