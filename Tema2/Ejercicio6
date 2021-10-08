@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div align="left">
+        <h3><b>Prueba 1</b></h3>
+    <p><i>Alineado a la izquierda</i></p>
+</div>
+
+<div align="center">
+    <h3><em>Prueba 2</em></h3>
+    <p><mark>Texto centrado</mark></p>
+</div>
+
+<div align="right">
+    <h3><small>Prueba 3</small></h3>
+    <p><del>Alineado a la derecha</del></p>
+</div>
+
+<div align="justify">
+    <h3><ins>Prueba 4</ins></h3>
+    <p><sub>Texto justificado</sub></p>
+</div>
+
+</body>
+</html>
