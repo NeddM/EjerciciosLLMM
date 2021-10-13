@@ -31,3 +31,5 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 [Ejercicio 5.](/Tema2/Ejercicio5)
 
 [Ejercicio 6.](/Tema2/Ejercicio6)
+
+[Ejercicio 7.](/Tema2/Ejercicio7)
