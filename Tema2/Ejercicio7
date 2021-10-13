@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div align="left">
+        <h3 style="background-color: aqua;"><b>Prueba 1</b></h3>
+    <p style="background-color: blueviolet;"><i>Alineado a la izquierda</i></p>
+</div>
+
+<div align="center">
+    <h3 style="color: coral;"><em>Prueba 2</em></h3>
+    <p style="color: darkolivegreen;"><mark>Texto centrado</mark></p>
+</div>
+
+<div align="right">
+    <h3 style="color: darkred; background-color: deepskyblue;"><small>Prueba 3</small></h3>
+    <p style="background-color: gold; color: hotpink;"><del>Alineado a la derecha</del></p>
+</div>
+
+<div align="justify">
+    <h3 style="color: navy; background-color: salmon;"><ins>Prueba 4</ins></h3>
+    <p style="background-color: violet; color: seagreen;"><sub>Texto justificado</sub></p>
+</div>
+
+</body>
+</html>
