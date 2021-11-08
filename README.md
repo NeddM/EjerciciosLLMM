@@ -20,19 +20,19 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 
 #### HTML
 
-[Ejercicio 1.](/Tema2/Ejercicio1)
+[Ejercicio 1.](/Tema2/Ejercicio1.html)
 
-[Ejercicio 2.](/Tema2/Ejercicio2)
+[Ejercicio 2.](/Tema2/Ejercicio2.html)
 
-[Ejercicio 3.](/Tema2/Ejercicio3)
+[Ejercicio 3.](/Tema2/Ejercicio3.html)
 
-[Ejercicio 4.](/Tema2/Ejercicio4)
+[Ejercicio 4.](/Tema2/Ejercicio4.html)
 
-[Ejercicio 5.](/Tema2/Ejercicio5)
+[Ejercicio 5.](/Tema2/Ejercicio5.html)
 
-[Ejercicio 6.](/Tema2/Ejercicio6)
+[Ejercicio 6.](/Tema2/Ejercicio6.html)
 
-[Ejercicio 7.](/Tema2/Ejercicio7)
+[Ejercicio 7.](/Tema2/Ejercicio7.html)
 
 [Ejercicio 8.](/Tema2/Ejercicio8.rar)
 
