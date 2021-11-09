@@ -50,4 +50,6 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 
 [Ejercicio 16.](/Tema2/Ejercicio16.html)
 
-[Ejercicio 17.](/Tema2/Ejercicio17.rar)
+[Ejercicio 17.](/Tema2/Ejercicio17.zip)
+
+[Ejercicio 18.](/Tema2/Ejercicio18.rar)
