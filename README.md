@@ -41,3 +41,5 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 [Ejercicio 8 - listas.](/Tema2/Ejercicio8listas.html)
 
 [Ejercicio 12.](/Tema2/Ejercicio12.html)
+
+[Ejercicio 13.](/Tema2/Ejercicio13.html)
