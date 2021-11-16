@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 23</title>
+</head>
+<body>
+    <h2>Rellena tu CV:</h2>
+
+    <form action="/action_page.php">
+        <label for="name">Nombre:</label><br>
+        <input type="text" id="name" name="name"><br>
+
+        <label for="lname">Apellidos:</label><br>
+        <input type="text" id="lastname" name="lastname"><br>
+
+        <label for="password">Contraseña:</label><br>
+        <input type="texto" id="password" name="password"><br>
+
+        <label for="dni">DNI:</label><br>
+        <input type="text" id="dni" name="dni"><br>
+
+        
+        <label for="sexo">Género:</label><br>
+        <input type="radio" id="Hombre" name="genero" value="Hombre">
+        <label for="Hombre">Hombre</label><br>
+
+        <input type="radio" id="Mujer" name="genero" value="Mujer">
+        <label for="Mujer">Mujer</label><br><br>
+
+        <label for="avatar">Incluir mi foto </label><br>
+        <input type="file" id="avatar" name="avatar"
+        accept="image/png, image/jpeg"><br><br>
+
+        <input type="checkbox" id="boletin1" name="boletin1" value="boletin">
+        <label for="boletin"> Suscribirme al boletín de novedades</label><br><br>
+        
+        <input type="submit" value="Guardar cambios">
+        <input type="submit" value="Borrar los datos introducidos">
+      </form> 
+
+</body>
+</html>
