@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ejercicio 25</title>
+  </head>
+  <body>
+    <h1>Rellena tu CV</h1>
+    <form action="#.php">
+      <fieldset>
+        <legend>Datos personales</legend>
+        <label for="province">Provincia</label>
+        <br />
+        <select name="province">
+          <option value="seleccion">- selecciona -</option>
+        </select>
+        <br /><br />
+
+        <label for="nacimiento">Fecha de nacimiento</label>
+        <br />
+        <input type="date" min="1900-01-01" max="2022-01-25" />
+        <br /><br />
+        <label for="interes">Temas de interes</label>
+        <br />
+        <select name="interes" multiple>
+          <option value="administracion">
+            Administración de bases de datos
+          </option>
+
+          <option name="analisis">Análisis y programación</option>
+
+          <option name="arquitectura">Arquitectura</option>
+          <option name="calidad">Calidad</option>
+          <option name="business">ERP, CRM, Busines Intelligence</option>
+        </select>
+      </fieldset>
+    </form>
+  </body>
+</html>
