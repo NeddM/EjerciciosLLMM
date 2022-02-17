@@ -1,0 +1,11 @@
+.content {
+  display: flex;
+  align-items: center;
+}
+
+.content > p {
+  width: 200px;
+  border: 2px solid black;
+  margin: 20px;
+  text-align: justify;
+}

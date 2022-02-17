@@ -1,0 +1,15 @@
+.layout {
+  display: grid;
+  grid-template-areas: "izquierda izquierda derecha";
+}
+
+.izquierda {
+  background-color: skyblue;
+  text-align: center;
+}
+
+.derecha {
+  background-color: floralwhite;
+  border-left: 2px solid black;
+  text-align: center;
+}
