@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <body>
+    <h2>Imágenes de coches</h2>
+
+    <p>
+      Ejemplo de JavaScripten el que cambiamos las imágenes mostradas el pulsar
+      un botón
+    </p>
+
+    <img id="miImagen" src="/img/coche1.jpg" style="height: 300px" /><br />
+
+    <select
+      onchange="cambiaCoche(document.getElementById('coches').value)"
+      id="coches"
+    >
+      <option value="nada">-- Elige una opción --</option>
+      <option value="/img/coche1.jpg">Coche 1</option>
+      <option value="/img/coche2.jpg">Coche 2</option>
+      <option value="/img/coche3.jpg">Coche 3</option>
+      <option value="/img/coche4.jpeg">Coche 4</option>
+      <option value="/img/coche5.jpg">Coche 5</option>
+      <option value="/img/coche6.jpg">Coche 6</option>
+    </select>
+
+    <script src="/script.js"></script>
+  </body>
+</html>
