@@ -1,0 +1,42 @@
+* {
+  background-color: white;
+}
+.clearfix {
+  clear: both;
+}
+
+.heading1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blue;
+  background-color: lightgray;
+  size: 24px;
+  letter-spacing: 1.6em;
+  word-spacing: 2em;
+  text-align: center;
+}
+
+.heading2 h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: darkred;
+  size: 18px;
+  letter-spacing: 1.4em;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}

@@ -1,0 +1,169 @@
+div.contenedor {
+  position: relative;
+  width: 500px;
+  height: 300px;
+  background-color: #e0e0e0;
+  margin: auto;
+}
+div.uno {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 200px;
+  height: 50px;
+  background-color: red;
+  margin: 10px;
+  font-size: 40px;
+}
+div.dos {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 200px;
+  height: 50px;
+  background-color: blue;
+  margin: 10px;
+  font-size: 40px;
+}
+div.tres {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  margin: 10px;
+  font-size: 40px;
+}
+div.cuatro {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  margin: 10px;
+  font-size: 40px;
+}
+div.s_uno {
+  position: absolute;
+  top: 10px;
+  left: 110px;
+  width: 230px;
+  height: 150px;
+  background-color: blue;
+  font-size: 40px;
+}
+div.s_dos {
+  position: absolute;
+  bottom: 75px;
+  left: 50px;
+  width: 135px;
+  height: 115px;
+  background-color: green;
+  font-size: 40px;
+}
+div.s_tres {
+  position: absolute;
+  top: 70px;
+  right: 60px;
+  width: 180px;
+  height: 150px;
+  background-color: yellow;
+  font-size: 40px;
+}
+div.s_cuatro {
+  position: absolute;
+  bottom: 25px;
+  left: 170px;
+  width: 210px;
+  height: 90px;
+  background-color: red;
+  font-size: 40px;
+  z-index: 2;
+}
+
+div.t_uno {
+  position: absolute;
+  top: 40px;
+  left: 80px;
+  width: 90px;
+  height: 200px;
+  background-color: green;
+  margin: 10px;
+  font-size: 40px;
+}
+div.t_dos {
+  position: absolute;
+  bottom: 0px;
+  top: 40px;
+  right: 0px;
+  left: 170px;
+  width: 90px;
+  height: 200px;
+  background-color: yellow;
+  margin: 10px;
+  font-size: 40px;
+}
+div.t_tres {
+  position: absolute;
+  top: 40px;
+  left: 260px;
+  width: 90px;
+  height: 200px;
+  background-color: red;
+  margin: 10px;
+  font-size: 40px;
+}
+div.t_cuatro {
+  position: absolute;
+  top: 40px;
+  left: 350px;
+  width: 90px;
+  height: 200px;
+  background-color: blue;
+  margin: 10px;
+  font-size: 40px;
+}
+
+div.c_uno {
+  position: absolute;
+  top: 40px;
+  left: 80px;
+  width: 350px;
+  height: 60px;
+  background-color: red;
+  margin: 10px;
+  font-size: 40px;
+}
+div.c_dos {
+  position: absolute;
+  top: 160px;
+  left: 80px;
+  width: 350px;
+  height: 60px;
+  background-color: yellow;
+  margin: 10px;
+  font-size: 40px;
+}
+div.c_tres {
+  position: absolute;
+  top: 10px;
+  left: 140px;
+  width: 90px;
+  height: 250px;
+  background-color: blue;
+  margin: 10px;
+  font-size: 40px;
+  z-index: 1;
+}
+div.c_cuatro {
+  position: absolute;
+  top: 10px;
+  left: 280px;
+  width: 90px;
+  height: 250px;
+  background-color: green;
+  margin: 10px;
+  font-size: 40px;
+}
