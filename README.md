@@ -79,3 +79,24 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 
 [Ejercicio 1.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS1)
 
+[Ejercicio 2.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS2)
+
+[Ejercicio 3.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS3)
+
+[Ejercicio 4.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS4)
+
+[Ejercicio 5.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS5)
+
+[Ejercicio 6.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS6)
+
+[Ejercicio 7.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS7)
+
+[Ejercicio 8.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS8)
+
+[Ejercicio 9.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS9)
+
+[Ejercicio 10.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS10)
+
+[Ejercicio 11.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS11)
+
+[Ejercicio 12.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS12)
