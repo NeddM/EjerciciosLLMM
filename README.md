@@ -77,5 +77,5 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 
 #### CSS
 
-[Ejercicio 1.](/Ejercicios CSS/CSS1)
+[Ejercicio 1.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS1)
 
