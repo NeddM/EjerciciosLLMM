@@ -99,4 +99,7 @@ Aqui estarán los ejercicios del tema 1 de lenguaje de marcas.
 
 [Ejercicio 11.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS11)
 
-[Ejercicio 12.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20CSS/CSS12)
+
+#### JavaScript
+
+[Ejercicio 1.](https://github.com/illoneddy/EjerciciosLLMM/tree/main/Ejercicios%20JavaScript/Ejercicio1)
