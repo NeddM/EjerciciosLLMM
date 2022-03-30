@@ -29,7 +29,7 @@ function maxOfThree(a, b, c) {
 }
 
 // C
-esVocal('b')
+esVocal("b");
 function esVocal(a) {
   if (
     a == "a" ||
@@ -43,24 +43,46 @@ function esVocal(a) {
     a == "O" ||
     a == "U"
   ) {
-    document.getElementById("resultado3").innerHTML = `El valor ${a} es una vocal`;
+    document.getElementById(
+      "resultado3"
+    ).innerHTML = `El valor ${a} es una vocal`;
   } else {
-    document.getElementById("resultado3").innerHTML = `El valor ${a} no es una vocal`;
+    document.getElementById(
+      "resultado3"
+    ).innerHTML = `El valor ${a} no es una vocal`;
   }
 }
 
 // D
 
-
 // E
-sum()
+sum();
+mul();
 function sum() {
-  const lista = [1, 2, 3, 4]
-  for (let i = 0; i > lista.length; i++) {
-    let z = lista[i]
-    document.getElementById('resultado5').innerHTML = `El resultado de la suma es ${z}`
-    console.log(z)
-  }
-
+  const lista = [1, 2, 3, 4];
+  let res = lista.reduce((a, b) => {
+    return a + b;
+  });
+  document.getElementById('resultado5suma').innerHTML = `La suma del array es: ${res}`
 }
+
+function mul() {
+  const lista = [1, 2, 3, 4];
+  let res = lista.reduce((a, b) => {
+    return a * b;
+  });
+  document.getElementById('resultado5multi').innerHTML = `La multiplicación del array es: ${res}`
+}
+
+
+// F
+document.getElementById('resultadof').innerHTML = reversa('Este texto está del revés')
+function reversa(s) {
+  return s.split("").reverse().join('')
+}
+
+
+
+
+
 
