@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<mail>
+  <from>Simon North</from>
+  <frommail>north@synopsys.com</frommail>
+  <sendto>Nick</sendto>
+  <tomail>sintac@xs4all.nl</tomail>
+  <subject>Hi</subject>
+  <content>Hi Nick, this is just a quick message to say I got the material. Thanks.</content>
+</mail>

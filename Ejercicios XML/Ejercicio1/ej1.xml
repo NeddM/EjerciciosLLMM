@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<!-- a -->
+<book>
+  <chapter></chapter>
+  <author>
+    <name>Pedro</name>
+    <address>c\ Olmo 5</address>
+  </author>
+</book>
+
+<!-- b -->
+<entry no="24" date="2004-20-27"></entry>
+
+
+
